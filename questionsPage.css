@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+.both {
+    display: flex;
+}
+
+.left div {
+    border: 1px solid black;
+    height: 25vh;
+    text-align: center;
+    line-height: 25vh;
+    width: 75vw;
+}
+
+.right div {
+    border: 1px solid black;
+    height: 33vh;
+    text-align: center;
+    line-height: 33vh;
+    width: 25vw;
+}
+
+

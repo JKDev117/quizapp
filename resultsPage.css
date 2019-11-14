@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: gray;
+}
+
+div{
+    border: 1px solid black;
+    height: 20vh;
+    line-height: 20vh;
+    text-align: center;
+}
+
+.yesOrNo {
+   display: flex;
+}
+
+.yesOrNo div{
+    width: 50%;
+}

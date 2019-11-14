@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+body{
+    margin: 0;
+    background-color: gray;
+}
+
+div {
+    background-color: gray;
+    border: 1px solid black;
+    text-align: center;
+    height: 33vh;
+    line-height: 33vh;
+    font-size: 1.5em;
+}
+
